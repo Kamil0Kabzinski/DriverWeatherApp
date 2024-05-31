@@ -1,0 +1,2 @@
+include ':new_module'
+project(':new_module').projectDir = new File(rootDir, 'DriverApp-main/android/new_module')
